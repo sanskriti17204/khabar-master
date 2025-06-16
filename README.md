@@ -40,3 +40,12 @@ Push Notifications: Integrate push notifications to alert users about breaking n
 Personalized News Feeds: Develop an algorithm to suggest articles based on user's reading history and preferences.
 
 Dark Mode: Introduce a dark theme option for improved readability in low-light conditions and reduced eye strain.
+
+
+![WhatsApp Image 2025-06-15 at 19 14 56_9e0fca5f](https://github.com/user-attachments/assets/e9cd1e6b-2987-4673-b418-f03c17dadf8a)
+
+
+![WhatsApp Image 2025-06-15 at 19 14 55_a83c7c7d](https://github.com/user-attachments/assets/2d452cf1-50d4-4a02-b0d4-607357d5b39e)
+
+
+![WhatsApp Image 2025-06-15 at 19 14 55_dda13454](https://github.com/user-attachments/assets/7a9db07d-b8a4-4b65-83e1-bc54d4d9b6fd)
